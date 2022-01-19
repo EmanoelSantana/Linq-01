@@ -1,0 +1,15 @@
+/home/emanoel/NETCurso/sesson14/Linq/bin/Debug/net6.0/Linq
+/home/emanoel/NETCurso/sesson14/Linq/bin/Debug/net6.0/Linq.deps.json
+/home/emanoel/NETCurso/sesson14/Linq/bin/Debug/net6.0/Linq.runtimeconfig.json
+/home/emanoel/NETCurso/sesson14/Linq/bin/Debug/net6.0/Linq.dll
+/home/emanoel/NETCurso/sesson14/Linq/bin/Debug/net6.0/ref/Linq.dll
+/home/emanoel/NETCurso/sesson14/Linq/bin/Debug/net6.0/Linq.pdb
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/Linq.csproj.AssemblyReference.cache
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/Linq.AssemblyInfoInputs.cache
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/Linq.AssemblyInfo.cs
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/Linq.csproj.CoreCompileInputs.cache
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/Linq.dll
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/ref/Linq.dll
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/Linq.pdb
+/home/emanoel/NETCurso/sesson14/Linq/obj/Debug/net6.0/Linq.genruntimeconfig.cache
